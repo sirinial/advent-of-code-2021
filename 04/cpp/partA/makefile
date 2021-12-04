@@ -1,0 +1,4 @@
+target:
+	g++ -Werror -Wall -std=c++17 -o main main.cpp
+clean:
+	rm -f main
